@@ -1,6 +1,6 @@
 # vueapp
 
-> A Vue.js project
+> A Vue.js project - Product List
 
 ## Build Setup
 
